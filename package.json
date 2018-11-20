@@ -2,13 +2,14 @@
   "name": "passport-http",
   "version": "0.3.0",
   "description": "HTTP Basic and Digest authentication strategies for Passport.",
+  "private": true,
   "keywords": ["passport", "http", "basic", "digest", "auth", "authn", "authentication"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-http.git"
+    "url": "git://github.com/neucadia/passport-http.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-http/issues"
+    "url": "http://github.com/neucadia/passport-http/issues"
   },
   "author": {
     "name": "Jared Hanson",
